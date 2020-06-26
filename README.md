@@ -36,7 +36,7 @@ python  manage.py runserver
 ```
 Now apply migrations for Installed apps in settings.py to create virtual tables in DB's.
 ```
-command: python manage.py migrtate
+command: python manage.py migrate
 ```
 Now DB is reflected with tables for modules in settings.py.
 
